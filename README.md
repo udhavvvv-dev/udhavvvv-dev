@@ -1,6 +1,13 @@
-# 💫 About Me:
-About Me 👋<br><br>🌟 Who I Am<br>Hi, I’m Udhav, a passionate learner, master's student and currently diving into Data Science and Artificial Intelligence. I enjoy building projects, solving problems, and creating unique digital experiences.<br><br>🚀 What I'm Working On<br>Currently working on: A Web Scraper for a college project.<br>Future aspirations: Building innovative tools and applications in Machine Learning or Artificial Intelligence.<br><br>🤝 Collaboration Interests<br>I'm eager to collaborate on: Web Development projects, Some Backend Development tasks, Beginner-level Machine Learning applications & Open-source contributions.<br><br>📚 Current Learning<br>I'm focused on enhancing my knowledge in Data Science and Artificial Intelligence to create impactful projects.<br><br>💬 Ask Me About<br>Feel free to ask me anything related to my skills—I’m always happy to help!<br><br>🎨 Fun Fact<br>I’m good at drawing and writing poems and photography, and I aspire to create a one-of-a-kind website that beautifully blends my poetry with a captivating, visually immersive photographic experience.
+### About Me 👋
 
+Hi, I’m Udhav, a master's student passionate about Data Science and Artificial Intelligence. I love solving problems, building projects, and exploring creative pursuits like poetry, photography, and drawing.
+
+🔭 **Current Project**: Developing a Web Scraper for a college assignment.  
+📚 **Learning**: Data Science and AI to create impactful solutions.  
+🤝 **Collaboration**: Open to Web Development, Backend tasks, and ML projects.  
+🎨 **Fun Fact**: I dream of blending my poetry and photography into a unique digital experience.
+
+Feel free to connect or ask me anything—I’m happy to help!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/718675406558855228) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_udhavvvv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/udhavpatil/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21137738/udhavvvv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_udhavvvv) 
